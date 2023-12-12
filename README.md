@@ -1,3 +1,12 @@
+# Airdrop Contract
+
+Simple airdrop contract 
+
+## Features
+
+- Beneficiary users can not sell their Airdropped tokens for one year;
+- Liquidity and Development  tokens have no time lock.
+- Users pays fee to get airdrop
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
